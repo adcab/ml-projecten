@@ -31,11 +31,6 @@ Welkom! Deze repository bevat een verzameling **interactieve Jupyter Notebooks**
 - Voorbewerking: PCA-dimensiereductie
 - Dataset: CIFAR-10 (via Keras)
 
-### 5. 📊 Logistische Regressie met Epochs
-> Begrijp het leerproces van logistische regressie met zichtbare iteraties zoals bij deep learning.
-- Model: `LogisticRegression` (met `verbose=1`) of `SGDClassifier`
-- Doel: Begrijpelijke uitleg van iteratief leren
-
 ---
 
 ## 🎯 Doel van deze repository
